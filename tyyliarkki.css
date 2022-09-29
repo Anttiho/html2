@@ -7,6 +7,32 @@
     text-decoration-line: underline;
   }
 
+  body {
+    background-color:white;
+    background-image: url("pp1.jpg");
+  }
+
   img {
     border-radius: 50%;
+    float: right;
+    background-color: white;
+    margin: 0%;
   }
+
+  div {
+    background-color: rgb(228, 244, 249);
+    width: 60%;
+    border: 5px solid rgb(0, 26, 128);
+    padding: 5px;
+    margin: auto
+    
+    
+  }
+.opiskelu { color: green;}
+
+.vapaaehtoinen
+{ color: rgb(149, 4, 129);}
+
+.antti1 
+  { 
+}
