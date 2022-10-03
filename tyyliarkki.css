@@ -3,13 +3,13 @@
   }
 
   H1 {text-align: center;}
-  h2 {
-    text-decoration-line: underline;
-  }
+  h3 {
 
+  }
+.hhh { margin-top: 40pt;}
   body {
     background-color:rgb(0, 26, 128);
-    background-image: url("tie1.jpg");
+    background-image: url("maisema.jpg");
     background-repeat: no-repeat;
     font-family: Tahoma, Verdana, sans-serif;
     
@@ -47,10 +47,10 @@ div {
   .div2 {
     margin: auto;
   }
-.opiskelu { color: green;}
+.opiskelu { color: rgb(0, 14, 0);}
 .alaosa {
         color: white;
 }
 .vapaaehtoinen
-{ color: rgb(149, 4, 129);}
+{ color: rgb(2, 0, 8);}
 
